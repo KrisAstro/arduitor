@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<driversList>
+<devGroup group="Rotators">
+   <device label="arduitor" manufacturer="DIY">
+      <driver name="Moonduino">indi_arduitor_rotator</driver>
+      <version>0.1</version>
+   </device>
+</devGroup>
+</driversList>
